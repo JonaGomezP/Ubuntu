@@ -6,3 +6,4 @@ Ejercicio 5: Clonar
 Ejercicio 6: Cambiar
 Ejercicio 7: Salvar modificaciones
 Ejercicio 8: Actualiza la copia local
+Ejercicio10: Actualiza la copia local
